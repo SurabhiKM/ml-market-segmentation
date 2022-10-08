@@ -1,5 +1,5 @@
 # Problem Statement : UNSUPERVISED 
-Considering I am working in a bank as data scientist and provided with extensive data on the bank 's customers for past 6 months.
+Considering I am working in a bank as data scientist and provided with extensive data of the bank 's customers for past 6 months.
 The bank marketing team would like to leverage AI/ML to launch a targeted marketing ad campaign that is tailored to specific group of customers.
 (Problem taken from Coursera)
 We are dividing customers in 4 groups:
